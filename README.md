@@ -1,6 +1,7 @@
 # Sap_xep_gian_hang
 ỨNG DỤNG LUẬT KẾT HỢP VÀO BÀI TOÁN SẮP XẾP GIAN HÀNG
 ![image](https://github.com/user-attachments/assets/84df673d-3407-444c-a5cc-4a649f28acbc)
+
 Quy trình thực hiện 
 1. Xác định bài toán
 2. Tìm hiểu về luật kết hợp
