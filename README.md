@@ -1,8 +1,9 @@
 # Sap_xep_gian_hang
 ỨNG DỤNG LUẬT KẾT HỢP VÀO BÀI TOÁN SẮP XẾP GIAN HÀNG
 ![image](https://github.com/user-attachments/assets/84df673d-3407-444c-a5cc-4a649f28acbc)
-- I. Xác định bài toán 
-  -- Mục đích của quá trình khai phá tri thức là rút ra tri thức từ dữ liệu trong CSDL lớn. Quá trình gồm nhiều giai đoạn và lặp lại, mà trong đó sự lặp lại có thể xuất hiện ở bất cứ bước nào. Quá trình có thể được mô tả như sau :  
+
+I. Xác định bài toán 
+- Mục đích của quá trình khai phá tri thức là rút ra tri thức từ dữ liệu trong CSDL lớn. Quá trình gồm nhiều giai đoạn và lặp lại, mà trong đó sự lặp lại có thể xuất hiện ở bất cứ bước nào. Quá trình có thể được mô tả như sau :  
  ![image](https://github.com/user-attachments/assets/c984b4e5-6215-4bb4-b188-0ef6c6dc7cc2)
 Hiện nay, khai phá dữ liệu trở nên khá phổ biến trong lĩnh vực bán lẻ và là phương pháp phân tích hiệu quả cho phát hiện thông tin hữu ích và chưa biết trong dữ liệu bán lẻ. Việc sắp xếp tổ chức hàng hoá và các hoạt động kinh doanh có liên quan nhằm nâng cao sự hài lòng của khách hàng là một trong những công việc rất quan trọng. Nghiên cứu này sẽ tập trung phân tích, khai phá và tìm ra luật kết hợp dựa trên dữ liệu của quá khứ, từ đó đề xuất một số kiến nghị để hỗ trợ cho hoạt động kinh doanh. 
 ![image](https://github.com/user-attachments/assets/b6d757d3-b37e-4c51-8ff3-4dbbde5a7083) 
